@@ -1,4 +1,4 @@
-# Over-Current-Protection-Circuit-Using-Op-amp 
+# Over-Current Protection Circuit
 ### LM358 Comparator · IRF540N MOSFET · Shunt Resistor
 
 ---
@@ -33,6 +33,7 @@ A 1Ω shunt resistor senses current, and when the current exceeds the preset thr
 
 ---
 ## Circuit Diagram
+![Circuit Diagram](Picture2.png)
 
 ##  Working Principle
 The shunt resistor generates a small voltage proportional to load current:
